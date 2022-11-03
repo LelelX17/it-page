@@ -39,6 +39,7 @@ Sea in oblique maiorum fuisset, docendi quaestio referrentur at pro. Te concepta
 <br>
 
 <a href="https://taltech.ee/">Ära vajuta siia</a>
+<br>
 <a href="https://lelelx17.github.io/it-page/">Vajuta parem siia</a>
 
 <br>
