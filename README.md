@@ -14,11 +14,7 @@ Assum nostrum duo id, exerci tibique rationibus eu mei, eu est prompta salutandi
 Sea in oblique maiorum fuisset, docendi quaestio referrentur at pro. Te conceptam forensibus consetetur duo. Vim sumo nobis ei, ea sonet oratio pri. Ei vero prompta disputationi his, dolore apeirian in duo. Et ferri exerci vel.<p>
 
 <html>
-<style>
-table, th, td {
-  border:3px solid black; text-align: center
-}
-</style>
+
 <body>
 
 <h2></h2>
