@@ -12,27 +12,20 @@ Assum nostrum duo id, exerci tibique rationibus eu mei, eu est prompta salutandi
 
 Sea in oblique maiorum fuisset, docendi quaestio referrentur at pro. Te conceptam forensibus consetetur duo. Vim sumo nobis ei, ea sonet oratio pri. Ei vero prompta disputationi his, dolore apeirian in duo. Et ferri exerci vel.<p>
 
-<html>
-
-<body>
-
-<h2></h2>
-
 <table style="width:50%">
   <tr>
     <th>Õpilane</th>
     <th>Hinne</th>
     <th>Boonuspunkte</th>
-  </tr>
   <tr>
     <td>223454IADB</td>
     <td>5+</td>
-    <td>100%</td>
+    <td>100</td>
   </tr>
   <tr>
     <td>223454</td>
     <td>5+</td>
-    <td>100%</td>
+    <td>120</td>
   </tr>
 </table>
 <br>
