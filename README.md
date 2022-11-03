@@ -2,7 +2,6 @@
 <body>
 
 <h1> See on pealikiri</h1>
-<div class="fade-in-text">
 <p> Lorem ipsum dolor sit amet, illud temporibus an nec, ei mazim signiferumque pro. Ea est mazim aperiri, summo regione eum at. Ne usu wisi delectus. Vim diam inani te. Mel ea deserunt appellantur, et sea soleat bonorum molestie.
 
 Sint periculis ex est. Has ut percipit indoctum. Ut vim mollis timeam. Laoreet singulis cu vel. Eu timeam scripserit signiferumque eos, his at alia veniam tacimates, porro consul melius pro ut. Fabellas convenire sea ei.
@@ -12,7 +11,6 @@ Et partem causae detracto nec. Semper conclusionemque eum at, no ocurreret defin
 Assum nostrum duo id, exerci tibique rationibus eu mei, eu est prompta salutandi. Et possim reprehendunt eum. Vitae animal ius ex, nam ancillae phaedrum te. Cu quaeque rationibus nam, officiis similique duo no, vivendo assentior conceptam sed ex.
 
 Sea in oblique maiorum fuisset, docendi quaestio referrentur at pro. Te conceptam forensibus consetetur duo. Vim sumo nobis ei, ea sonet oratio pri. Ei vero prompta disputationi his, dolore apeirian in duo. Et ferri exerci vel.<p>
-</div>
 
 <html>
 
