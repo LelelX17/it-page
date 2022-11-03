@@ -36,7 +36,6 @@ Sea in oblique maiorum fuisset, docendi quaestio referrentur at pro. Te concepta
     <td>100%</td>
   </tr>
 </table>
-</html>
 <br>
 
 <a href="https://taltech.ee/">Ära vajuta siia</a>
@@ -46,5 +45,3 @@ Sea in oblique maiorum fuisset, docendi quaestio referrentur at pro. Te concepta
 <a href="https://imgflip.com/i/u9pv5">
   <img src="https://i.imgflip.com/u9pv5.jpg" alt="see on pilt">
 </a>
-
-</html>
