@@ -34,7 +34,6 @@ Sea in oblique maiorum fuisset, docendi quaestio referrentur at pro. Te concepta
     <td>5+</td>
     <td>120</td>
   </tr>
-</table>
 <br>
 <a href="https://taltech.ee/">Ära vajuta siia</a>
 <br>
